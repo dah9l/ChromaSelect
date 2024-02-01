@@ -1,0 +1,16 @@
+{
+    "manifest_version": 3,
+    "name": "ChromaSelect",
+    "description": "A simple browser extension that allows you to select colors on web pages. With this extension you can select any color on the page and copy it to the clipboard. Also, this extension has a color history feature that allows you to save previously selected colors.",
+    "version": "1.0",
+    "author": "dah9",
+    "action": {
+        "default_popup": "index.html"
+    },
+    "icons": {
+        "16": "icons/icon16.png",
+        "32": "icons/icon32.png",
+        "48": "icons/icon48.png",
+        "128": "icons/icon128.png"
+    }
+}
